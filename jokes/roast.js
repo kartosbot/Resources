@@ -137,8 +137,7 @@ const roasts = [
 	{ 'number': 136, 'roast': 'You\'re not completely useless, you can always serve as a bad example.' },
 	{ 'number': 138, 'roast': 'My phone battery lasts longer than your relationships.'},
 	{ 'number': 139, 'roast': 'My name must taste good because it’s always in your mouth.'},
-	{ 'number': 140, 'roast': 'The smartest thing that ever came out of your mouth was a penis.'},
-	{ 'number': 141, 'roast': 'You\'re like the first slice of bread: Everyone touches you but no one wants you.'}
+	{ 'number': 140, 'roast': 'The smartest thing that ever came out of your mouth was a penis.'}
 
 ];
 module.exports = roasts;
